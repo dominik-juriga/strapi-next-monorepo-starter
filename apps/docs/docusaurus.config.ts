@@ -17,7 +17,10 @@ const config: Config = {
       },
     ],
   ],
-
+  // organizationName: "dominik-juriga",
+  // projectName: "strapi-next-monorepo-starter",
+  // deploymentBranch: "main",
+  trailingSlash: true,
   title: "Strapi Next Monorepo Starter",
   tagline: "Enterprise-grade Strapi v5 + Next.js starter template",
   url,
