@@ -2,8 +2,8 @@ import { themes as prismThemes } from "prism-react-renderer"
 import type { Config } from "@docusaurus/types"
 import type * as Preset from "@docusaurus/preset-classic"
 
-const url = process.env.DOCUSAURUS_URL ?? "https://notum-cz.github.io"
-const baseUrl = process.env.DOCUSAURUS_BASE_URL ?? "/"
+const url = "https://dominik-juriga.github.io"
+const baseUrl = "/strapi-next-monorepo-starter"
 
 const config: Config = {
   plugins: [
