@@ -3,7 +3,7 @@ import type { Config } from "@docusaurus/types"
 import type * as Preset from "@docusaurus/preset-classic"
 
 const url = "https://dominik-juriga.github.io"
-const baseUrl = "/"
+const baseUrl = "/strapi-next-monorepo-starter/"
 
 const config: Config = {
   plugins: [
